@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "MX"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mythologicalages:empty_jug"
+  }
+}

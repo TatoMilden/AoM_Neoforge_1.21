@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mythologicalages:item/one_handed_axe"
+  }
+}

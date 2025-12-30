@@ -1,0 +1,28 @@
+{
+  "item.mythologicalages.mead": "Mead",
+  "item.mythologicalages.empty_jug": "Empty Jug",
+  "item.mythologicalages.ragweed": "Ragweed",
+  "item.mythologicalages.wine": "Wine",
+  "item.mythologicalages.berserk_mushroom": "Berserk Mushroom",
+  "item.mythologicalages.empty_wine_bottle": "Empty Wine Bottle",
+  "item.mythologicalages.celestial_bronze": "Celestial Bronze",
+
+  "item.mythologicalages.gladius": "§3§oGladius",
+  "item.mythologicalages.xifos": "§3§oXifos",
+  "item.mythologicalages.one_handed_axe": "§3§oOne Handed Axe§r",
+  "item.mythologicalages.greek_helmet": "§3§oGreek Helmet§r",
+  "item.mythologicalages.greek_chestplate": "§3§oGreek Chestplate§r",
+  "item.mythologicalages.greek_leggings": "§3§oGreek Leggings§r",
+  "item.mythologicalages.greek_boots": "§3§oGreek Boots§r",
+
+  "tooltip.mythologicalages.mead": "50% chance to get §l§4STRENGTH II",
+  "tooltip.mythologicalages.ragweed": "75% chance to get §l§2REGENERATION III",
+  "tooltip.mythologicalages.celestial_bronze": "Found Only in the §3§lOLYMPUS§r",
+  "tooltip.mythologicalages.wine": "50% chance to get §l§2RESISTANCE II ",
+  "tooltip.mythologicalages.berserk_mushroom": "When consumed you'll go on a §3RAMPAGE",
+
+  "effect.mythologicalages.madness": "Madness",
+
+  "creativetab.mythologicalages.mythological_foods": "Mythological Foods",
+  "creativetab.mythologicalages.mythological_weapons": "Mythological Weapons"
+}

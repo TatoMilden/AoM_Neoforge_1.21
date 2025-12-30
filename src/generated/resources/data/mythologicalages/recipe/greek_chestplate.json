@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "item": "mythologicalages:celestial_bronze"
+    }
+  },
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mythologicalages:greek_chestplate"
+  }
+}
